@@ -1,9 +1,10 @@
 import React from 'react';
+import AppShell from './AppShell'
 
 function App() {
   return (
     <div className="App">
-      Words Cloud
+      <AppShell/>
     </div>
   );
 }
