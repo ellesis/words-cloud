@@ -6,7 +6,7 @@ export class Texts extends Component {
     return (
       <Card>
         <CardContent>
-          Texts
+          <h2>Texts</h2>
         </CardContent>
       </Card>
     )

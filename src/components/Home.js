@@ -6,7 +6,7 @@ export class Home extends Component {
     return (
       <Card>
         <CardContent>
-          Words Cloud Application - React and Firemase - Home
+          <h1>Words Cloud Application - React and Firemase - Home</h1>
         </CardContent>
       </Card>
     )
